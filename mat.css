@@ -185,7 +185,7 @@ h1::after{
     height:80px;
   }
 }
-
+/* 
 .nextknapp{
     position:fixed;
     bottom:25px;
@@ -233,4 +233,4 @@ h1::after{
 .nextknapp:focus{
     outline:none;
     color:white;
-}
+}*/
